@@ -1,0 +1,11 @@
+Network:
+
+Many Resources(includes laptop,mobile,computer ) that are connectable to each other So these system as a whole is called Network  
+
+
+
+Types of Network
+
+1) LAN(Local Area Network):
+                      
+      
