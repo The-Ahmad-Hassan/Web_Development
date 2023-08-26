@@ -1,0 +1,29 @@
+Web-Application:
+         Web-Application has three layers
+  
+         1)Front-End/User Interface : 
+                                  Create using html,css,java,react 
+                The Front Developer is also called Front end developer
+           
+         2)Back-End:
+               Brain of your web App
+               Logic of your website
+           Those who know backend are called Back-End Developer
+
+          3)DB Layer
+             Store & Maintain Data
+            
+       
+    The Engineer who can work on these layer is known as Full Stack Web Developer
+
+
+
+
+
+
+
+ Best Use
+   ---> Pen/notebook
+   --->  always add your touch
+   --->  Always use google
+   --->  Practise,Practise,Practise

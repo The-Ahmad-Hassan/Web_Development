@@ -1,0 +1,11 @@
+Website:
+1)      Website is a static Content
+2)      User Interaction Minimum 
+3)      Read-Only Data
+4)      Examples: WikiPedia,blogs 
+
+Web-App:
+I)     Web-app is a Dynamic Content 
+II)    User Interaction is Maximum 
+III)   Read and Write Data
+IV)   Example: Facebook,Instagram,Linkdin

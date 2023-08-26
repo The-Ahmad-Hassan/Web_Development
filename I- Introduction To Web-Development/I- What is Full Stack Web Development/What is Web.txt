@@ -1,0 +1,2 @@
+Web is a system where alot of data (documents) are interconnected and accessed using via Internet
+
